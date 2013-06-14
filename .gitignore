@@ -16,4 +16,10 @@ Thumbs.db
 
 # Cake TMP Dirs #
 #################
-/tmp/*
+/tmp/cache/models/*
+/tmp/cache/persistent/*
+/tmp/cache/views/*
+/tmp/cache/models/*
+/tmp/logs/*
+/tmp/sessions/*
+/tmp/tests/*
